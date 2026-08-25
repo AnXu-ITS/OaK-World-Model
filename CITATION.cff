@@ -1,0 +1,11 @@
+﻿cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Xu"
+    given-names: "An"
+    affiliation: "Technical University of Munich"
+    email: "AnX.RTL2324@tum-asia.edu.sg"
+title: "Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning"
+date-released: 2026-08-25
+url: "https://github.com/AnXu-ITS/OaK-World-Model"
+type: article

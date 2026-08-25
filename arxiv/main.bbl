@@ -1,0 +1,227 @@
+\begin{thebibliography}{32}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bacon et~al.(2017)Bacon, Harb, and Precup]{bacon2017option}
+Pierre-Luc Bacon, Jean Harb, and Doina Precup.
+\newblock The option-critic architecture.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence (AAAI)}, volume~31, pages 1726--1734, 2017.
+
+\bibitem[Dohare et~al.(2024)Dohare, Hernandez-Garcia, Rahman, Sutton, and
+  Mahmood]{dohare2024loss}
+Shibhansh Dohare, J.~Fernando Hernandez-Garcia, Parash Rahman, Richard~S.
+  Sutton, and Mahmood~R. Mahmood.
+\newblock Loss of plasticity in deep continual learning.
+\newblock \emph{Nature}, 632:\penalty0 768--774, 2024.
+\newblock \doi{10.1038/s41586-024-07711-7}.
+
+\bibitem[Elelimy et~al.(2025)Elelimy, Szepesvari, White, and
+  Bowling]{elelimy2025rethinking}
+Esraa Elelimy, David Szepesvari, Martha White, and Michael Bowling.
+\newblock Rethinking the foundations for continual reinforcement learning.
+\newblock \emph{Reinforcement Learning Journal}, 2, 2025.
+
+\bibitem[Freed et~al.(2023)Freed, Venkatraman, Sartoretti, Schneider, and
+  Choset]{freed2023learning}
+Benjamin Freed, Siddarth Venkatraman, Guillaume~Adrien Sartoretti, Jeff
+  Schneider, and Howie Choset.
+\newblock Learning temporally abstract world models without online
+  experimentation.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning (ICML)}, volume 202 of \emph{PMLR}, pages 10271--10287, 2023.
+
+\bibitem[Fu et~al.(2025)Fu, Sun, Littman, and Konidaris]{fu2025knowledge}
+Haotian Fu, Yixiang Sun, Michael~L. Littman, and George Konidaris.
+\newblock Knowledge retention in continual model-based reinforcement learning.
+\newblock In \emph{Proceedings of the 42nd International Conference on Machine
+  Learning (ICML)}, volume 267 of \emph{PMLR}, pages 17832--17851, 2025.
+
+\bibitem[Ha and Schmidhuber(2018)]{ha2018world}
+David Ha and J{\"u}rgen Schmidhuber.
+\newblock Recurrent world models facilitate policy evolution.
+\newblock \emph{Advances in Neural Information Processing Systems (NeurIPS)},
+  31, 2018.
+
+\bibitem[Hafner et~al.(2019)Hafner, Lillicrap, Fischer, Villegas, Ha, Lee, and
+  Davidson]{hafner2019learning}
+Danijar Hafner, Timothy Lillicrap, Ian Fischer, Ruben Villegas, David Ha,
+  Honglak Lee, and James Davidson.
+\newblock Learning latent dynamics for planning from pixels.
+\newblock In \emph{Proceedings of the 36th International Conference on Machine
+  Learning (ICML)}, volume~97 of \emph{PMLR}, pages 2555--2565, 2019.
+
+\bibitem[Hafner et~al.(2020)Hafner, Lillicrap, Ba, and
+  Norouzi]{hafner2020dream}
+Danijar Hafner, Timothy Lillicrap, Jimmy Ba, and Mohammad Norouzi.
+\newblock Dream to control: Learning behaviors by latent imagination.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2020.
+
+\bibitem[Hafner et~al.(2023)Hafner, Pasukonis, Ba, and
+  Lillicrap]{hafner2023mastering}
+Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, and Timothy Lillicrap.
+\newblock Mastering diverse domains through world models.
+\newblock \emph{arXiv preprint arXiv:2301.04104}, 2023.
+
+\bibitem[Hansen et~al.(2024{\natexlab{a}})Hansen, Su, and
+  Wang]{hansen2024hierarchical}
+Nicklas Hansen, Hao Su, and Xiaolong Wang.
+\newblock Hierarchical world models as visual whole-body humanoid controllers.
+\newblock \emph{arXiv preprint arXiv:2405.18418}, 2024{\natexlab{a}}.
+
+\bibitem[Hansen et~al.(2024{\natexlab{b}})Hansen, Su, and
+  Wang]{hansen2024tdmpc2}
+Nicklas Hansen, Hao Su, and Xiaolong Wang.
+\newblock {TD-MPC2}: Scalable, robust world models for continuous control.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2024{\natexlab{b}}.
+
+\bibitem[Huang and Freed(2026)]{huang2026learning}
+William Huang and Benjamin Freed.
+\newblock Learning temporally and state-abstracted world models for
+  long-horizon exploration.
+\newblock In \emph{ICRA Workshop on Structure and Abstraction in Robot
+  Learning}, 2026.
+
+\bibitem[Javed and Sutton(2024)]{javed2024bigworld}
+Khurram Javed and Richard~S. Sutton.
+\newblock The big world hypothesis and its ramifications for artificial
+  intelligence.
+\newblock In \emph{RLC Workshop on Finding the Frame}, 2024.
+
+\bibitem[Javed and White(2019)]{javed2019meta}
+Khurram Javed and Martha White.
+\newblock Meta-learning representations for continual learning.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, volume~32, 2019.
+
+\bibitem[Javed et~al.(2023)Javed, Shah, Sutton, and
+  White]{javed2023constructive}
+Khurram Javed, Haseeb Shah, Richard~S. Sutton, and Martha White.
+\newblock Scalable real-time recurrent learning using columnar-constructive
+  networks.
+\newblock \emph{Journal of Machine Learning Research}, 24\penalty0
+  (256):\penalty0 1--34, 2023.
+
+\bibitem[Jiralerspong et~al.(2023)Jiralerspong, Tr{\"a}uble, Bengio, and
+  Jagersand]{jiralerspong2023forecaster}
+Thomas Jiralerspong, Frederik Tr{\"a}uble, Yoshua Bengio, and Martin Jagersand.
+\newblock Forecaster: Towards temporally abstract tree-search planning from
+  pixels.
+\newblock \emph{arXiv preprint arXiv:2310.09997}, 2023.
+
+\bibitem[Kearney et~al.(2019)Kearney, Liu, Sutton, and
+  Pilarski]{kearney2019learning}
+Alex Kearney, Vincent Liu, Richard~S. Sutton, and Patrick~M. Pilarski.
+\newblock Learning feature relevance through step size adaptation in
+  temporal-difference learning.
+\newblock \emph{arXiv preprint arXiv:1903.03252}, 2019.
+
+\bibitem[Kessler et~al.(2023)Kessler, Parker-Holder, Ball, Zohren, and
+  Roberts]{kessler2023effectiveness}
+Samuel Kessler, Jack Parker-Holder, Philip~J. Ball, Stefan Zohren, and
+  Stephen~J. Roberts.
+\newblock The effectiveness of world models for continual reinforcement
+  learning.
+\newblock In \emph{Conference on Lifelong Learning Agents (CoLLAs)}, volume 232
+  of \emph{PMLR}, pages 400--419, 2023.
+
+\bibitem[Kumar et~al.(2023)Kumar, Marklund, and {Van Roy}]{kumar2023continual}
+Saurabh Kumar, Henrik Marklund, and Benjamin {Van Roy}.
+\newblock Continual learning as computationally constrained reinforcement
+  learning.
+\newblock \emph{arXiv preprint arXiv:2307.04345}, 2023.
+
+\bibitem[Lewandowski et~al.(2025)Lewandowski, Ramesh, Meyer, Schuurmans, and
+  Machado]{lewandowski2025world}
+Alex Lewandowski, Aditya~A. Ramesh, Edan Meyer, Dale Schuurmans, and Marlos~C.
+  Machado.
+\newblock The world is bigger! a computationally-embedded perspective on the
+  big world hypothesis.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, volume~38, 2025.
+
+\bibitem[Liu et~al.(2025)Liu, Fu, Du, Lee, and Lin]{liu2025continual}
+Zichen Liu, Guoji Fu, Chao Du, Wee~Sun Lee, and Min Lin.
+\newblock Continual reinforcement learning by planning with online world
+  models.
+\newblock In \emph{Proceedings of the 42nd International Conference on Machine
+  Learning (ICML)}, volume 267 of \emph{PMLR}, pages 38397--38423, 2025.
+
+\bibitem[Piriyakulkij et~al.(2026)Piriyakulkij, Lehrach, Ellis, and
+  Murphy]{piriyakulkij2026agentowl}
+P.~Piriyakulkij, S.~Lehrach, K.~Ellis, and K.~Murphy.
+\newblock Joint learning of hierarchical neural options and abstract world
+  model.
+\newblock \emph{arXiv preprint arXiv:2602.02799}, 2026.
+
+\bibitem[Precup et~al.(1997)Precup, Sutton, and Singh]{precup1997planning}
+Doina Precup, Richard~S. Sutton, and Satinder Singh.
+\newblock Planning with closed-loop macro actions.
+\newblock In \emph{AAAI Fall Symposium on Model-directed Autonomous Systems},
+  pages 70--76, 1997.
+
+\bibitem[Richens et~al.(2025)Richens, Everitt, and Abel]{richens2025general}
+Jonathan Richens, Tom Everitt, and David Abel.
+\newblock General agents need world models.
+\newblock In \emph{Proceedings of the 42nd International Conference on Machine
+  Learning (ICML)}, volume 267 of \emph{PMLR}, pages 42110--42145, 2025.
+
+\bibitem[Rodriguez-Sanchez and Konidaris(2024)]{rodriguez2024learning}
+Rafael Rodriguez-Sanchez and George Konidaris.
+\newblock Learning abstract world models for value-preserving planning with
+  options.
+\newblock \emph{Reinforcement Learning Journal}, 4, 2024.
+
+\bibitem[Schiewer et~al.(2024)Schiewer, Subramoney, and
+  Wiskott]{schiewer2024exploring}
+M.~Schiewer, A.~Subramoney, and L.~Wiskott.
+\newblock Exploring the limits of hierarchical world models in reinforcement
+  learning.
+\newblock \emph{Scientific Reports}, 14\penalty0 (1):\penalty0 26856, 2024.
+\newblock \doi{10.1038/s41598-024-76719-w}.
+
+\bibitem[Sutton(2025)]{sutton2025oak}
+Richard~S. Sutton.
+\newblock The {OaK} architecture: A vision of superintelligence from
+  experience.
+\newblock Invited Talk at NeurIPS and Keynote at Reinforcement Learning
+  Conference (RLC), 2025.
+
+\bibitem[Sutton et~al.(1998)Sutton, Precup, and Singh]{sutton1998intra}
+Richard~S. Sutton, Doina Precup, and Satinder Singh.
+\newblock Intra-option learning about temporally abstract actions.
+\newblock In \emph{Proceedings of the 15th International Conference on Machine
+  Learning (ICML)}, pages 556--564, 1998.
+
+\bibitem[Sutton et~al.(1999)Sutton, Precup, and Singh]{sutton1999between}
+Richard~S. Sutton, Doina Precup, and Satinder Singh.
+\newblock Between {MDP}s and semi-{MDP}s: A framework for temporal abstraction
+  in reinforcement learning.
+\newblock \emph{Artificial Intelligence}, 112\penalty0 (1--2):\penalty0
+  181--211, 1999.
+
+\bibitem[Sutton et~al.(2022)Sutton, Bowling, and Pilarski]{sutton2022alberta}
+Richard~S. Sutton, Michael Bowling, and Patrick~M. Pilarski.
+\newblock The {Alberta} plan for {AI} research.
+\newblock \emph{arXiv preprint arXiv:2208.11173}, 2022.
+
+\bibitem[Sutton et~al.(2023)Sutton, Machado, Holland, Szepesv{\'a}ri, Timbers,
+  Tanner, and White]{sutton2023subtasks}
+Richard~S. Sutton, Marlos~C. Machado, G.~Zacharias Holland, David
+  Szepesv{\'a}ri, Finbarr Timbers, Brian Tanner, and Adam White.
+\newblock Reward-respecting subtasks for model-based reinforcement learning.
+\newblock \emph{Artificial Intelligence}, 324:\penalty0 104001, 2023.
+\newblock \doi{10.1016/j.artint.2023.104001}.
+
+\bibitem[Yang et~al.(2024)Yang, Ma, and Wang]{yang2024augmenting}
+Yifei Yang, Guozheng Ma, and Zhen Wang.
+\newblock Augmenting replay in world models for continual reinforcement
+  learning.
+\newblock \emph{arXiv preprint arXiv:2401.16650}, 2024.
+
+\end{thebibliography}

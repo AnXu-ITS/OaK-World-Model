@@ -6,6 +6,8 @@ authors:
     affiliation: "Technical University of Munich"
     email: "AnX.RTL2324@tum-asia.edu.sg"
 title: "Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning"
-date-released: 2026-08-25
-url: "https://github.com/AnXu-ITS/OaK-World-Model"
+date-released: 2026-08-26
+doi: "10.5281/zenodo.22103257"
+url: "https://doi.org/10.5281/zenodo.22103257"
+repository-code: "https://github.com/AnXu-ITS/OaK-World-Model"
 type: article

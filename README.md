@@ -3,8 +3,8 @@
 # Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](paper/Toward_Continually_Growing_World_Models_Preprint.pdf)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22103257-blue.svg)](https://doi.org/10.5281/zenodo.22103257)
 [![Venue](https://img.shields.io/badge/NeurIPS%202026-Workshop%20on%20Continual%20World%20Models-darkgreen.svg)](#)
-[![Preprint](https://img.shields.io/badge/arXiv-Preprint-b31b1b.svg)](paper/Toward_Continually_Growing_World_Models_Preprint.pdf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Author](https://img.shields.io/badge/Author-An%20Xu%20(TUM)-blue.svg)](mailto:AnX.RTL2324@tum-asia.edu.sg)
 
@@ -94,7 +94,7 @@ The SCWM architecture integrates a **Fast Online Interaction Loop** (handling 1-
 
 ```
 .
-├── arxiv/                          # arXiv submission source & build artifacts
+├── arxiv/                          # LaTeX sources & build artifacts
 │   ├── main.tex                    # Preprint LaTeX source
 │   ├── main.bbl                    # Pre-compiled bibliography
 │   ├── neurips_2026.sty            # Style package
@@ -102,7 +102,7 @@ The SCWM architecture integrates a **Fast Online Interaction Loop** (handling 1-
 ├── paper/                          # Compiled paper PDF & distribution archives
 │   ├── Toward_Continually_Growing_World_Models_Preprint.pdf
 │   └── arxiv_source.tar.gz
-├── CITATION.cff                    # Citation metadata
+├── CITATION.cff                    # Citation metadata (Zenodo DOI)
 ├── LICENSE                         # Open-source MIT License
 └── README.md                       # Project landing page
 ```
@@ -117,8 +117,10 @@ If you find this position paper or conceptual architecture relevant to your rese
 @article{xu2026continually,
   title={Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning},
   author={Xu, An},
-  journal={arXiv preprint},
+  journal={Zenodo Preprint},
   year={2026},
+  doi={10.5281/zenodo.22103257},
+  url={https://doi.org/10.5281/zenodo.22103257},
   note={Workshop on Continual World Models, NeurIPS 2026}
 }
 ```
